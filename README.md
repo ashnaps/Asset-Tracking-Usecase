@@ -9,7 +9,7 @@ Suppose you are the manager of a big supermarket. Imagine some customers who bou
 Now you want to find the source of the mangoes. It becomes a hunt for emergency information. And the days of searching will actually cost you and your customer a hefty price, maybe a legal hurdle too.  
 The reason for all chaos is that the information that you seek is scattered across a vast, intricate, and diverse supply chain network, and tracing the information is just as tedious as it sounds.  
   
-The supermarket chain in question was Walmart, and they used The IBM blockchain platform to build a food safety solution. The new platform enabled them to find the same piece of information in less than 3 seconds.
+The supermarket chain in the story was Walmart, and they used The IBM blockchain platform to build a food safety solution. The new platform enabled them to find the same piece of information in less than 3 seconds.
 
 # Mango chaincode:  
 - The organizations involved in this are PRODUCER and SELLER.     
